@@ -1,3 +1,15 @@
+## Todo-App
+
+[![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)]()
+[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)]()
+
+## 🔴 <a id="demo" href="https://dailytodoapp.vercel.app/" target="_blank"> LIVE DEMO</a>
+
+<img src="https://github.com/sandeeprawat28/Todo-App/blob/master/demo.png" width="100%">
+
+## App Features :
+- CRUD operations
+- Responsive Layout, HiRes Screens include.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -67,3 +79,15 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+## PREREQUISITES :
+- Sign up for a Vercel account <a href='https://vercel.com/signup'>HERE</a>
+- Install Node JS in your computer <a href='https://nodejs.org/en/'>HERE</a>
+
+## Contributing 💚
+Contributions, issues and features requests are welcome!
+
+## Show your support ❤️
+Give a 🌟 if this project helped you!
+
+[Back To Top](#demo)👆
